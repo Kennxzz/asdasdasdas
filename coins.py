@@ -1,5 +1,5 @@
 parameters = {
-    "community-link": "http://aminoapps.com/c/russki-anime" 
+    "community-link": "http://aminoapps.com/c/Role-playingR" 
 }
 
 import os
